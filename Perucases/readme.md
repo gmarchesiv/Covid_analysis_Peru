@@ -10,6 +10,8 @@ Low testing capacity, especially at the beginning of the pandemic could be at th
 
 **Estimates.xlsx** contains the estimations based on the linear model estimated by Tableau
 
-**CovidAnalysis.twb* is the Tableau file were the analysis was conducted
+**CovidAnalysis.twb** is the Tableau file were the analysis was conducted
 
 The two jpeg files are the results of the Tableau Analysis
+
+The md files are the written articles, both in Spanish and English. 
